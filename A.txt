@@ -18,3 +18,10 @@
       	Date      	Time    	Data
 000001	2017-03-24	19:48:34	850785004003
 000002	2017-03-24	19:48:41	01086708
+      	Date      	Time    	Data
+000001	2017-03-24	19:53:04	850785004003
+      	Date      	Time    	Data
+000001	2017-03-24	19:56:31	-- TWEDGE | www.tec-it.com | This is a DEMO! --
+      	Date      	Time    	Data
+000001	2017-03-24	19:58:11	SDJBjtswmN
+000002	2017-03-24	19:58:14	SDJBjtswmN
