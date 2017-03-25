@@ -1,10 +1,1 @@
-  	Date      	Time    	Data
-      	Date      	Time    	Data
-      	Date      	Time    	Data
-      	Date      	Time    	Data
-      	Date      	Time    	Data
-      	Date      	Time    	Data
-      	Date      	Time    	Data
-000001	2017-03-25	13:57:31	mailto:bhushiwase@gmail.com?subject=This+is+barcode&body=This+is+bhushan+corporations+
-      	Date      	Time    	Data
-000001	2017-03-25	14:07:15	Code: 44276649Company name: Maersk pvt. ltd.status: Checkpoint reachedLocation : G.H.R.C.E
+  	anurag23y4y3y4urnf
